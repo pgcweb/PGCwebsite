@@ -1,2 +1,2 @@
 # PGCwebsite
-PGC website development and issues. (non-WordPress)
+PGC website development and issues. (PGC specific)
